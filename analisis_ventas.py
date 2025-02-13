@@ -1,5 +1,3 @@
-https://github.com/EliOrellana/proyecto_ventas/blob/ee2f614f418a08338f260a8127c205c8857ac858/ventas_productos.csv
-
 import pandas as pd
 import numpy as np
 import csv
